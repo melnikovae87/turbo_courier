@@ -1,12 +1,12 @@
-[
  {
   "status": "Оновлення знайдено",
   "code": 600,
   "result": true,
-  "version": "3.0.10",
-  "update_date": "08/24/2023, 14:46:43",
-  "download_link": "https://github.com/melnikovae87/turbo_courier/releases/download/release/turbo-app-release-3.0.9-18-08-2023.apk",
-  "major_update": false,
-  "comments": "Покращена стабільність додатку"
+  "app_update": {
+   "version": "3.0.10",
+   "update_date": "08/24/2023, 14:46:43",
+   "download_link": "https://github.com/melnikovae87/turbo_courier/releases/download/release/turbo-app-release-3.0.9-18-08-2023.apk",
+   "major_update": false,
+   "comments": "Покращена стабільність додатку"
+  }
  }
-]
