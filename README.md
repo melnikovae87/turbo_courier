@@ -1,5 +1,8 @@
 # Turbo Courier Releases
 
+### [v.3.0.11](https://github.com/melnikovae87/turbo_courier/releases/download/3.0.11/turbo-app-release-3.0.11-06-09-2023.apk) _(11.09.2023)_
+  - Исправления логики обновления приложения
+
 ### [v.3.0.10](https://github.com/melnikovae87/turbo_courier/releases/download/3.0.10/turbo-app-release-3.0.10-31-08-2023.apk) _(31.08.2023)_
   - Исправлены ошибки работы геолокации
   - Добавлен функционал обновления прилождения
