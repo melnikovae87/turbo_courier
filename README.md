@@ -1,5 +1,10 @@
 # Turbo Courier Releases
 
+### [v.3.1.14](https://github.com/melnikovae87/turbo_courier/releases/download/3.1.14/turbo-app-release-3.1.14-07-11-2023.apk) _(07.11.2023)_
+  - Изменны эндпоинты авторизации на Platform
+  - Исправлены права доступа чтения из памяти для Android 33 и выше
+  - Добавлена проверка на новую версию, для принудительного обновления приложения курьерами
+
 ### [v.3.1.13](https://github.com/melnikovae87/turbo_courier/releases/download/3.1.13/turbo-app-release-3.1.13-19-10-2023.apk) _(19.10.2023)_
   - Обновлена логика авторизации Platform
   - Добавлена аватарка курьера в разделе "Користувач"
