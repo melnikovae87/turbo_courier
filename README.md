@@ -1,5 +1,9 @@
 # Turbo Courier Releases
 
+
+### [v.3.1.15](https://github.com/melnikovae87/turbo_courier/releases/download/3.1.15/turbo-app-release-3.1.15-24-11-2023.apk) _(24.11.2023)_
+  - Исправлено залипание кнопки для сканирования заказа
+
 ### [v.3.1.14](https://github.com/melnikovae87/turbo_courier/releases/download/3.1.14/turbo-app-release-3.1.14-07-11-2023.apk) _(07.11.2023)_
   - Изменны эндпоинты авторизации на Platform
   - Исправлены права доступа чтения из памяти для Android 33 и выше
