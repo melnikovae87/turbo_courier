@@ -12,7 +12,7 @@
   - Исправленна бага с фотографией курьера (пропорции)
   - Были исправлены баги на стороооне серевера (номер телефона курьера) - логику в приложении не меняли
 
-### [v.3.1.15](https://github.com/melnikovae87/turbo_courier/releases/download/3.1.15/turbo-app-release-3.1.15-24-11-2023.apk) _(24.11.2023)_
+### [v.3.1.15](https://github.com/melnikovae87/turbo_courier/releases/download/3.1.15/turbo-app-release-3.1.15-24-11-2023.apk) _(24.11.2023)_ - HOT-FIX
   - Исправлено залипание кнопки для сканирования заказа
 
 ### [v.3.1.14](https://github.com/melnikovae87/turbo_courier/releases/download/3.1.14/turbo-app-release-3.1.14-07-11-2023.apk) _(07.11.2023)_
