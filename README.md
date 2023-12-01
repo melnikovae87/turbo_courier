@@ -15,12 +15,12 @@
 ### [v.3.1.15](https://github.com/melnikovae87/turbo_courier/releases/download/3.1.15/turbo-app-release-3.1.15-24-11-2023.apk) _(24.11.2023)_ - hot-fix
   - Исправлено залипание кнопки для сканирования заказа
 
-### [v.3.1.14](https://github.com/melnikovae87/turbo_courier/releases/download/3.1.14/turbo-app-release-3.1.14-07-11-2023.apk) _(07.11.2023)_
+### [v.3.1.14](https://github.com/melnikovae87/turbo_courier/releases/download/3.1.14/turbo-app-release-3.1.14-07-11-2023.apk) _(07.11.2023)_ - hot-fix
   - Изменны эндпоинты авторизации на Platform
   - Исправлены права доступа чтения из памяти для Android 33 и выше
   - Добавлена проверка на новую версию, для принудительного обновления приложения курьерами
 
-### [v.3.1.13](https://github.com/melnikovae87/turbo_courier/releases/download/3.1.13/turbo-app-release-3.1.13-19-10-2023.apk) _(19.10.2023)_
+### [v.3.1.13](https://github.com/melnikovae87/turbo_courier/releases/download/3.1.13/turbo-app-release-3.1.13-19-10-2023.apk) _(19.10.2023)_ - release
   - Обновлена логика авторизации Platform
   - Добавлена аватарка курьера в разделе "Користувач"
 
@@ -34,7 +34,7 @@
   - Исправлены ошибки работы геолокации
   - Добавлен функционал обновления прилождения
 
-### [v.3.0.9](https://github.com/melnikovae87/turbo_courier/releases/download/release/turbo-app-release-3.0.9-18-08-2023.apk) _(18.08.2023)_
+### [v.3.0.9](https://github.com/melnikovae87/turbo_courier/releases/download/release/turbo-app-release-3.0.9-18-08-2023.apk) _(18.08.2023)_ - release
   - Внесены финальные правки по дизайну приложения
   - Поправлена стабильность работы приложения
   - Поправили возможность запуска приложения на Android 7 (минимальная версия)
