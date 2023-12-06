@@ -1,10 +1,10 @@
 # Turbo Courier Releases
 
-### [v.3.2.17](https://github.com/melnikovae87/turbo_courier/releases/download/3.2.17/turbo-app-release-3.2.17-01-12-2023.apkk) _(01.12.2023)_
+### [v.3.2.17](https://github.com/melnikovae87/turbo_courier/releases/download/3.2.17/turbo-app-release-3.2.17-01-12-2023.apkk) _(01.12.2023)_ - beta
   - Исправлена нативная логика потери связи (или плохой связи)
   - Внесены мелкие исправления в интерфейс приложения
 
-### [v.3.2.16](https://github.com/melnikovae87/turbo_courier/releases/download/3.2.16/turbo-app-release-3.2.16-29-11-2023.apk) _(29.11.2023)_
+### [v.3.2.16](https://github.com/melnikovae87/turbo_courier/releases/download/3.2.16/turbo-app-release-3.2.16-29-11-2023.apk) _(29.11.2023)_ - beta
   - Добавлен раздел форум (с топиками, чат, комментариями со вложенными файлами)
   - Были убраны лишние логи и всплывающие сообщения для уменьшения технического мусора
   - Чуток изменено поведение ключевых сервисов, на случай падения сервера состояние приложения не будет изменяться (если оно работает)
@@ -24,13 +24,13 @@
   - Обновлена логика авторизации Platform
   - Добавлена аватарка курьера в разделе "Користувач"
 
-### [v.3.0.12](https://github.com/melnikovae87/turbo_courier/releases/download/3.0.12/turbo-app-release-3.0.12-06-09-2023.apk) _(11.09.2023)_
+### [v.3.0.12](https://github.com/melnikovae87/turbo_courier/releases/download/3.0.12/turbo-app-release-3.0.12-06-09-2023.apk) _(11.09.2023)_ - beta
   - Исправлено поведение нижних сообщений (нет интернета/батарея/обновления)
 
-### [v.3.0.11](https://github.com/melnikovae87/turbo_courier/releases/download/3.0.11/turbo-app-release-3.0.11-06-09-2023.apk) _(11.09.2023)_
+### [v.3.0.11](https://github.com/melnikovae87/turbo_courier/releases/download/3.0.11/turbo-app-release-3.0.11-06-09-2023.apk) _(11.09.2023)_ - beta
   - Исправления логики обновления приложения
 
-### [v.3.0.10](https://github.com/melnikovae87/turbo_courier/releases/download/3.0.10/turbo-app-release-3.0.10-31-08-2023.apk) _(31.08.2023)_
+### [v.3.0.10](https://github.com/melnikovae87/turbo_courier/releases/download/3.0.10/turbo-app-release-3.0.10-31-08-2023.apk) _(31.08.2023)_ - beta
   - Исправлены ошибки работы геолокации
   - Добавлен функционал обновления прилождения
 
