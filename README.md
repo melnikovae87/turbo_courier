@@ -1,6 +1,6 @@
 # Turbo Courier Releases
 
-### [v.3.2.18](https://github.com/melnikovae87/turbo_courier/releases/download/3.2.18/turbo-app-release-3.2.18-05-12-2023.apk) _(05.12.2023)_ - beta
+### [v.3.2.18](https://github.com/melnikovae87/turbo_courier/releases/download/3.2.18/turbo-app-release-3.2.18-05-12-2023.apk) _(05.12.2023)_ - release
   - Добавлено состояние не прочитанных сообщений в топике (раздел Форум)
   - Внесены корректировки в поведение интерфейса
 
