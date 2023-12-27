@@ -1,5 +1,10 @@
 # Turbo Courier Releases
 
+### [v.3.2.22](https://github.com/melnikovae87/turbo_courier/releases/download/3.2.22/turbo-app-release-3.2.22-27-12-2023.apk) _(27.12.2023)_ - beta
+  - Отправка лог файлов на сервер по запросу сервера (через AppConfig)
+  - Ручная отправка логов разработчикам
+  - Сервис по работе с геоданными теперь отключается вручную (работает постоянно)
+
 ### [v.3.2.20](https://github.com/melnikovae87/turbo_courier/releases/download/3.2.20/turbo-app-release-3.2.20-13-12-2023.apk) _(13.12.2023)_ - beta
   - Реализовал логику обновления приложения (нативно)
   - Мелкие исправления верстки для разных версий Android
