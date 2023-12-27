@@ -11,7 +11,7 @@
 
 ### [v.3.2.19](https://github.com/melnikovae87/turbo_courier/releases/download/3.2.19/turbo-app-release-3.2.19-12-12-2023.apk) _(12.12.2023)_ - beta
   - Добавлен шеринг лог файла
-  - Добавлены хедеры в запросы (x-app-version, x-os-version, x-device-name)
+  - Добавлены хедеры в запросы (x-app-version, x-os-version, x-device-version)
   - Уведомление если локация не передается в карточке товара
 
 ### [v.3.2.18](https://github.com/melnikovae87/turbo_courier/releases/download/3.2.18/turbo-app-release-3.2.18-05-12-2023.apk) _(05.12.2023)_ - release
