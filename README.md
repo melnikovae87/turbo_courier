@@ -1,5 +1,7 @@
 # Turbo Courier Releases
 
+<img src="https://github.com/melnikovae87/turbo_courier/releases/download/3.2.22/cover_3.2.22.png">
+
 ### [v.3.2.22](https://github.com/melnikovae87/turbo_courier/releases/download/3.2.22/turbo-app-release-3.2.22-09-01-2024.apk) _(09.01.2024)_ - release
   - Отправка лог файлов на сервер по запросу сервера (через AppConfig)
   - Ручная отправка логов разработчикам
