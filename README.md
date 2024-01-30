@@ -1,5 +1,11 @@
 # Turbo Courier Releases
 
+### [v.3.3.25](https://github.com/melnikovae87/turbo_courier/releases/download/3.3.25/turbo-app-release-3.3.25-30-01-2024.apk) _(29.01.2024)_ - beta
+  - Добавлень график работы курьера (страница Пользователя)
+  - Исправлена ошибка запуска приложения Android 14
+  - Добавлен цвет ActionBar для Android 14
+  - Изменена логика установки трекинга
+
 <img src="https://github.com/melnikovae87/turbo_courier/releases/download/3.2.22/cover_3.2.22.png">
 
 ### [v.3.2.22](https://github.com/melnikovae87/turbo_courier/releases/download/3.2.22/turbo-app-release-3.2.22-09-01-2024.apk) _(09.01.2024)_ - release
