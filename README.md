@@ -2,6 +2,12 @@
 
 <img src="https://github.com/melnikovae87/turbo_courier/releases/download/3.3.28/cover_3.3.28.png">
 
+### [v.3.3.31](https://github.com/melnikovae87/turbo_courier/releases/download/3.3.31/turbo-app-release-3.3.31-05-02-2024.apk) _(05.02.2024)_ - hot-fix
+  - Исправлены задержки при смене статусов
+  - Исправлено поведение установки геолокации
+  - Исправлено поведение после сканирования заказа
+  - Исправлено поведение при получении доступов
+
 ### [v.3.3.28](https://github.com/melnikovae87/turbo_courier/releases/download/3.3.28/turbo-app-release-3.3.28-02-02-2024.apk) _(02.02.2024)_ - release
   - Мелкие исправления в календаре
   - Ожидание заказа после сканирования
