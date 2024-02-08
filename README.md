@@ -1,6 +1,9 @@
 # Turbo Courier Releases
 
-<img src="https://github.com/melnikovae87/turbo_courier/releases/download/3.3.28/cover_3.3.28.png">
+### [v.3.3.33](https://github.com/melnikovae87/turbo_courier/releases/download/3.3.33/turbo-app-release-3.3.33-08-02-2024.apk) _(08.02.2024)_ - beta
+  - Добавлены поля от клиента об изменении координат или адреса
+  - Добавлено поле с коментарием для курьера
+  - Обновлен чеклист с коментарием для курьера
 
 ### [v.3.3.31](https://github.com/melnikovae87/turbo_courier/releases/download/3.3.31/turbo-app-release-3.3.31-05-02-2024.apk) _(05.02.2024)_ - hot-fix
   - Получилось чуток быстрее загружать заказы после сканирования (и установки его для слежения)
