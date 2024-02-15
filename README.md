@@ -1,5 +1,10 @@
 # Turbo Courier Releases
 
+### [v.3.3.35](https://github.com/melnikovae87/turbo_courier/releases/download/3.3.35/turbo-app-release-3.3.35-15-02-2024.apk) _(15.02.2024)_ - beta
+  - отправка геоданных теперь через Retrofit
+  - изменен подход по установке данных для трекинга
+  - добавлены проверки (задержки) для отправки геоданных на сервер
+
 ### [v.3.3.33](https://github.com/melnikovae87/turbo_courier/releases/download/3.3.33/turbo-app-release-3.3.33-08-02-2024.apk) _(08.02.2024)_ - beta
   - Добавлены поля от клиента об изменении координат или адреса
   - Добавлено поле с коментарием для курьера
