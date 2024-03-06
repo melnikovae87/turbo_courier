@@ -2,6 +2,12 @@
 
 <img src="https://github.com/melnikovae87/turbo_courier/blob/master/app_cover.png">
 
+### [v.3.4.38](https://github.com/melnikovae87/turbo_courier/releases/download/3.4.38/turbo-app-release-3.4.38-06-03-2024.apk) _(06.03.2024)_ - beta
+  - Доработан функционал форума (ответ на комментарий, добавление фото, уведомление о не прочитанных сообщениях)
+  - Добавлена логика работы с Dark Kitchen (незначительные изменения в логике и значительные в интерфейсах)
+  - Изменена логика отображения важных сообщений (теперь они на главной странице)
+  - Изменена логика обновления приложение (только интерфейсные правки)
+
 ### [v.3.3.36](https://github.com/melnikovae87/turbo_courier/releases/download/3.3.36/turbo-app-release-3.3.36-15-02-2024.apk) _(19.02.2024)_ - release
   - мелки правки в процесс отправки геолокации
 
