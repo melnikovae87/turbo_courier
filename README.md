@@ -2,7 +2,7 @@
 
 <img src="https://github.com/melnikovae87/turbo_courier/blob/master/app_cover.png">
 
-### [v.3.4.41](https://github.com/melnikovae87/turbo_courier/releases/download/3.4.41/turbo-app-release-3.4.41-07-03-2024.apk) _(07.03.2024)_ - beta
+### [v.3.4.42](https://github.com/melnikovae87/turbo_courier/releases/download/3.4.42/turbo-app-release-3.4.42-07-03-2024.apk) _(07.03.2024)_ - beta
   - Мелкие интерфейсные правки
 
 ### [v.3.4.38](https://github.com/melnikovae87/turbo_courier/releases/download/3.4.38/turbo-app-release-3.4.38-06-03-2024.apk) _(06.03.2024)_ - beta
