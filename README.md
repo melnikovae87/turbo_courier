@@ -2,6 +2,9 @@
 
 <img src="https://github.com/melnikovae87/turbo_courier/blob/master/app_cover.png">
 
+### [v.3.4.43](https://github.com/melnikovae87/turbo_courier/releases/download/3.4.43/turbo-app-release-3.4.43-08-03-2024.apk) _(18.03.2024)_ - release
+  - Мелкие правки
+
 ### [v.3.4.42](https://github.com/melnikovae87/turbo_courier/releases/download/3.4.42/turbo-app-release-3.4.42-07-03-2024.apk) _(07.03.2024)_ - beta
   - Поправил проблему после обновления приложения
   - Поправил багу с получением прав (Store, Location, Camera etc.)
