@@ -2,6 +2,11 @@
 
 <img src="https://github.com/melnikovae87/turbo_courier/blob/master/app_cover.png">
 
+### [v.3.6.47](https://github.com/melnikovae87/turbo_courier/releases/download/3.6.47/turbo-app-release-3.6.47-01-04-2024.apk) _(18.03.2024)_ - beta
+  - Обновление зависимостей (до последних)
+  - Добавлен iOS проект
+  - Адаптирован UI под iOS (без нативной имплементации - to be continued)
+
 ### [v.3.4.43](https://github.com/melnikovae87/turbo_courier/releases/download/3.4.43/turbo-app-release-3.4.43-08-03-2024.apk) _(18.03.2024)_ - release
   - Мелкие правки
 
