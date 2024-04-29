@@ -2,6 +2,9 @@
 
 <img src="https://github.com/melnikovae87/turbo_courier/blob/master/app_cover.png">
 
+### [v.3.6.56 - support old app version](https://github.com/melnikovae87/turbo_courier/releases/download/3.6.56/courier-app_3.6.56_29-04-2024-release.apk) _(29.04.2024)_ - beta
+  - Возврат к нативному обновлению приложения
+
 ### [v.3.6.55](https://github.com/melnikovae87/turbo_courier/releases/download/3.6.55/courier-app_3.6.55_22-04-2024-release.apk) _(22.04.2024)_ - release
   - Обновления для PlayMarket
   - Добавлено вход в приложение по SMS
